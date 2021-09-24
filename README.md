@@ -35,7 +35,7 @@ After extensive trial and error, to avoid communication overhead, each worker ge
 
 
 
-![](Aspose.Words.3ef9f5d0-ba53-4bdf-8256-d1459613bd45.002.png)**2.RESULT OF RUNNING PROGRAM FOR INPUT 4**
+**2.RESULT OF RUNNING PROGRAM FOR INPUT 4**![](Aspose.Words.3ef9f5d0-ba53-4bdf-8256-d1459613bd45.002.png)
 
 
 
