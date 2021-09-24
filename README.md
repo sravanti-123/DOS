@@ -18,7 +18,8 @@ The zip file *Project1.zip* consists of three files:
 - client’s-which is the client implementation that takes server Ip address as input
 - server.fsx-which is the server implementation that takes *‘k’* as input (number of leading zeroes)
 
-![](Aspose.Words.3ef9f5d0-ba53-4bdf-8256-d1459613bd45.001.png)To run project1.fsx: type dotnet fsi project1.fsx k (number of leading zeros)
+![](Aspose.Words.3ef9f5d0-ba53-4bdf-8256-d1459613bd45.001.png)
+To run project1.fsx: type dotnet fsi project1.fsx k (number of leading zeros)
 
 
 
